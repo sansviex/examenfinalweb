@@ -1,4 +1,4 @@
-segundo parcial 
+examen final 
 
 - NIUMAR DAVID SILVA BLANCO     - 1152289
 - GIOVANNY ANTONIO MUÑOZ MENDEZ - 1152276
