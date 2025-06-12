@@ -31,8 +31,3 @@ API REST para la gestión de una plataforma académica con Spring Boot. Incluye 
 - Maven/Gradle
 - PostgreSQL 15+
 
-### Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/sansviex/parcial2web.git
-   cd parcial2web
